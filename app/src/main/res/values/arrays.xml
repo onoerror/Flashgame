@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nba_logos">
+        <item>@drawable/ng1</item>
+        <item>@drawable/ng2</item>
+        <item>@drawable/ng3</item>
+        <item>@drawable/ng4</item>
+        <item>@drawable/ng5</item>
+        <item>@drawable/ng6</item>
+        <item>@drawable/ng7</item>
+        <item>@drawable/ng8</item>
+        <item>@drawable/ng9</item>
+        <item>@drawable/ng10</item>
+        <item>@drawable/ng11</item>
+        <item>@drawable/ng12</item>
+        <item>@drawable/ng13</item>
+        <item>@drawable/ng14</item>
+        <item>@drawable/ng15</item>
+    </array>
+
+    <string-array name="nba_logo_name">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>
